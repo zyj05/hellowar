@@ -9,6 +9,7 @@ public class HelloController {
     @GetMapping("/abc")
     public String hello(Model model) {
         System.out.printf("hello git");
+        System.out.printf("hello git2");
         model.addAttribute("msg","你好");
         return "success";
     }
