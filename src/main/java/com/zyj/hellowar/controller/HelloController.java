@@ -10,6 +10,7 @@ public class HelloController {
     public String hello(Model model) {
         System.out.printf("hello git");
         System.out.printf("hello git2");
+        System.out.printf("hello git3");
         model.addAttribute("msg","你好");
         return "success";
     }
