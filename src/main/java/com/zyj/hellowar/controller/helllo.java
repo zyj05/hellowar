@@ -9,5 +9,6 @@ public class helllo {
         System.out.printf("hello git7");
         System.out.printf("master git");
         System.out.printf("hot-fix git");
+        System.out.printf("push git");
     }
 }
