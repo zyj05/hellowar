@@ -7,5 +7,6 @@ public class helllo {
         System.out.printf("hello git3");
         System.out.printf("hello git6");
         System.out.printf("hello git7");
+        System.out.printf("master git");
     }
 }
